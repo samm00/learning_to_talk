@@ -1,0 +1,55 @@
+﻿Verb_Type,Verb,Target Object,TargetImage,Verb-noun Pair,Verb-NounAudio,Neutral-pred Pair,Neutral-PredAudio,Filler-pred Pair,Filler-PredAudio,Unrelated Foil A,FoilAImage,Unrelated Foil B,FoilBImage,Unrelated Foil C,FoilCImage
+Predictive,blow,horn,horn.jpg,blow_horn,blow_horn.mp3,choose_horn ,choose_horn .mp3,choose_chair,choose_chair.mp3,brush,brush.jpg,chair,chair.jpg,bread,bread.jpg
+Predictive,toast,bread,bread.jpg,toast_bread,toast_bread.mp3,buy_bread,buy_bread.mp3,buy_shirt,buy_shirt.mp3,horse ,horse .jpg,shirt,shirt.jpg,couch,couch.jpg
+Predictive,climb,tree,tree.jpg,climb_tree,climb_tree.mp3,touch_tree,touch_tree.mp3,buy_shirt,buy_shirt.mp3,jewel,jewel.jpg,doll,doll.jpg,juice,juice.jpg
+Predictive,pour ,juice,juice.jpg,pour _juice,pour _juice.mp3,find_juice,find_juice.mp3,find_bell,find_bell.mp3,truck,truck.jpg,book,book.jpg,bell,bell.jpg
+Predictive,drink ,milk,milk.jpg,drink _milk,drink _milk.mp3,find_milk,find_milk.mp3,find_dress,find_dress.mp3,tractor,tractor.jpg,ball,ball.jpg,dress,dress.jpg
+Predictive,win,trophy,trophy.jpg,win_trophy,win_trophy.mp3,buy_trophy,buy_trophy.mp3,choose_santa,choose_santa.mp3,mail,mail.jpg,santa,santa.jpg,whisle,whisle.jpg
+Predictive,play,piano,piano.jpg,play_piano,play_piano.mp3,buy_piano,buy_piano.mp3,buy_crayon,buy_crayon.mp3,couch,couch.jpg,tractor,tractor.jpg,crayon,crayon.jpg
+Predictive,fly,kite,kite.jpg,fly_kite,fly_kite.mp3,buy_kite,buy_kite.mp3,choose_shoes,choose_shoes.mp3,peanut,peanut.jpg,bush,bush.jpg,shoes,shoes.jpg
+Predictive,read,book,book.jpg,read_book,read_book.mp3,choose_book,choose_book.mp3,choose_horse,choose_horse.mp3,santa,santa.jpg,ring,ring.jpg,horse,horse.jpg
+Predictive,eat,sandwich,sandwich.jpg,eat_sandwich,eat_sandwich.mp3,buy_sandwich,buy_sandwich.mp3,choose_scissors,choose_scissors.mp3,bush,bush.jpg,jewel,jewel.jpg,scissors,scissors.jpg
+Predictive,throw,football,football.jpg,throw_football,throw_football.mp3,hold_football,hold_football.mp3,buy_whistle,buy_whistle.mp3,pickle,pickle.jpg,whistle,whistle.jpg,costume,costume.jpg
+Predictive,draw,picture,picture.jpg,draw_picture,draw_picture.mp3,find_picture,find_picture.mp3,find_mittens,find_mittens.mp3,footprint,footprint.jpg,cookies,cookies.jpg,mittens,mittens.jpg
+Predictive,bake,cookies,cookies.jpg,bake_cookies,bake_cookies.mp3,choose_cookies,choose_cookies.mp3,find_footprint,find_footprint.mp3,doll,doll.jpg,footprint,footprint.jpg,trophy,trophy.jpg
+Predictive,drive,car,car.jpg,drive_car,drive_car.mp3,buy_car,buy_car.mp3,choose_grapes,choose_grapes.mp3,bag,bag.jpg,grapes,grapes.jpg,dress,dress.jpg
+Predictive,walk,dog,dog.jpg,walk_dog,walk_dog.mp3,find_dog,find_dog.mp3,buy_truck,buy_truck.mp3,can,can.jpg,milk,milk.jpg,truck,truck.jpg
+Predictive,ride,bike,bike.jpg,ride_bike,ride_bike.mp3,find_bike,find_bike.mp3,get_can,get_can.mp3,costume,costume.jpg,can,can.jpg,kite,kite.jpg
+Predictive,kick,ball,ball.jpg,kick_ball,kick_ball.mp3,buy_ball,buy_ball.mp3,find_mail,find_mail.mp3,cart,cart.jpg,cat,cat.jpg,mail,mail.jpg
+Predictive,pet,cat,cat.jpg,pet_cat,pet_cat.mp3,choose_cat,choose_cat.mp3,buy_plant,buy_plant.mp3,box,box.jpg,plant,plant.jpg,ball,ball.jpg
+NeutralFiller,choose,horn,horn.jpg,choose_horn,choose_horn.mp3,NA,NA,NA,NA,brush,brush.jpg,chair,chair.jpg,bread,bread.jpg
+NeutralFiller,buy,bread,bread.jpg,buy_bread,buy_bread.mp3,NA,NA,NA,NA,horse ,horse .jpg,shirt,shirt.jpg,couch,couch.jpg
+NeutralFiller,touch,tree,tree.jpg,touch_tree,touch_tree.mp3,NA,NA,NA,NA,jewel,jewel.jpg,doll,doll.jpg,juice,juice.jpg
+NeutralFiller,find,juice,juice.jpg,find_juice,find_juice.mp3,NA,NA,NA,NA,truck,truck.jpg,book,book.jpg,bell,bell.jpg
+NeutralFiller,find,milk,milk.jpg,find_milk,find_milk.mp3,NA,NA,NA,NA,tractor,tractor.jpg,ball,ball.jpg,dress,dress.jpg
+NeutralFiller,buy,trophy,trophy.jpg,buy_trophy,buy_trophy.mp3,NA,NA,NA,NA,mail,mail.jpg,santa,santa.jpg,whistle,whistle.jpg
+NeutralFiller,buy ,piano,piano.jpg,buy _piano,buy _piano.mp3,NA,NA,NA,NA,couch,couch.jpg,tractor,tractor.jpg,crayon,crayon.jpg
+NeutralFiller,buy,kite,kite.jpg,buy_kite,buy_kite.mp3,NA,NA,NA,NA,peanut,peanut.jpg,bush,bush.jpg,shoes,shoes.jpg
+NeutralFiller,choose,book,book.jpg,choose_book,choose_book.mp3,NA,NA,NA,NA,santa,santa.jpg,ring,ring.jpg,horse,horse.jpg
+NeutralFiller,buy,sandwich,sandwich.jpg,buy_sandwich,buy_sandwich.mp3,NA,NA,NA,NA,bush,bush.jpg,jewel,jewel.jpg,scissors,scissors.jpg
+NeutralFiller,hold,football,football.jpg,hold_football,hold_football.mp3,NA,NA,NA,NA,pickle,pickle.jpg,whistle,whistle.jpg,costume,costume.jpg
+NeutralFiller,find ,picture,picture.jpg,find _picture,find _picture.mp3,NA,NA,NA,NA,footprint,footprint.jpg,cookies,cookies.jpg,mittens,mittens.jpg
+NeutralFiller,choose,cookies,cookies.jpg,choose_cookies,choose_cookies.mp3,NA,NA,NA,NA,doll,doll.jpg,footprint,footprint.jpg,trophy,trophy.jpg
+NeutralFiller,buy,car,car.jpg,buy_car,buy_car.mp3,NA,NA,NA,NA,bag,bag.jpg,grapes,grapes.jpg,dress,dress.jpg
+NeutralFiller,find ,dog,dog.jpg,find _dog,find _dog.mp3,NA,NA,NA,NA,can,can.jpg,milk,milk.jpg,truck,truck.jpg
+NeutralFiller,find ,bike,bike.jpg,find _bike,find _bike.mp3,NA,NA,NA,NA,costume,costume.jpg,can,can.jpg,kite,kite.jpg
+NeutralFiller,buy,ball,ball.jpg,buy_ball,buy_ball.mp3,NA,NA,NA,NA,cart,cart.jpg,cat,cat.jpg,mail,mail.jpg
+NeutralFiller,choose,cat,cat.jpg,choose_cat,choose_cat.mp3,NA,NA,NA,NA,box,box.jpg,plant,plant.jpg,ball,ball.jpg
+Filler,choose,chair,chair.jpg,choose_chair,choose_chair.mp3,NA,NA,NA,NA,brush,brush.jpg,horn,horn.jpg,bread,bread.jpg
+Filler,buy,shirt,shirt.jpg,buy_shirt,buy_shirt.mp3,NA,NA,NA,NA,horse ,horse .jpg,bread,bread.jpg,couch,couch.jpg
+Filler,find,bell,bell.jpg,find_bell,find_bell.mp3,NA,NA,NA,NA,truck,truck.jpg,book,book.jpg,juice,juice.jpg
+Filler,find,dress,dress.jpg,find_dress,find_dress.mp3,NA,NA,NA,NA,tractor,tractor.jpg,milk,milk.jpg,ball,ball.jpg
+Filler,buy,crayon,crayon.jpg,buy_crayon,buy_crayon.mp3,NA,NA,NA,NA,couch,couch.jpg,piano,piano.jpg,tractor,tractor.jpg
+Filler,choose,shoes,shoes.jpg,choose_shoes,choose_shoes.mp3,NA,NA,NA,NA,peanut,peanut.jpg,kite,kite.jpg,bush,bush.jpg
+Filler,choose,scissors,scissors.jpg,choose_scissors,choose_scissors.mp3,NA,NA,NA,NA,bush,bush.jpg,sandwich,sandwich.jpg,jewel,jewel.jpg
+Filler,find,mittens,mittens.jpg,find_mittens,find_mittens.mp3,NA,NA,NA,NA,footprint,footprint.jpg,picture,picture.jpg,cookies,cookies.jpg
+Filler,find,doll,doll.jpg,find_doll,find_doll.mp3,NA,NA,NA,NA,jewel,jewel.jpg,juice,juice.jpg,tree,tree.jpg
+Filler,choose,santa,santa.jpg,choose_santa,choose_santa.mp3,NA,NA,NA,NA,mail,mail.jpg,whistle,whistle.jpg,trophy,trophy.jpg
+Filler,choose,horse,horse.jpg,choose_horse,choose_horse.mp3,NA,NA,NA,NA,santa,santa.jpg,ring,ring.jpg,book,book.jpg
+Filler,buy,whistle,whistle.jpg,buy_whistle,buy_whistle.mp3,NA,NA,NA,NA,pickle,pickle.jpg,footprint,footprint.jpg,costume,costume.jpg
+Filler,find,footprint,footprint.jpg,find_footprint,find_footprint.mp3,NA,NA,NA,NA,doll,doll.jpg,cookies,cookies.jpg,trophy,trophy.jpg
+Filler,choose,grapes,grapes.jpg,choose_grapes,choose_grapes.mp3,NA,NA,NA,NA,bag,bag.jpg,car,car.jpg,dress,dress.jpg
+Filler,buy,truck,truck.jpg,buy_truck,buy_truck.mp3,NA,NA,NA,NA,can,can.jpg,milk,milk.jpg,dog,dog.jpg
+Filler,get,can,can.jpg,get_can,get_can.mp3,NA,NA,NA,NA,costume,costume.jpg,kite,kite.jpg,bike,bike.jpg
+Filler,find,mail,mail.jpg,find_mail,find_mail.mp3,NA,NA,NA,NA,cart,cart.jpg,cat,cat.jpg,ball,ball.jpg
+Filler,buy,plant,plant.jpg,buy_plant,buy_plant.mp3,NA,NA,NA,NA,box,box.jpg,ball,ball.jpg,cat,cat.jpg

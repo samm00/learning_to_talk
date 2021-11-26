@@ -1,0 +1,55 @@
+Condition,Original Index,Verb_Type,Verb,Target Object,TargetImage,Verb-noun Pair,Verb-NounAudio,Neutral-pred Pair,Neutral-PredAudio,Filler-pred Pair,Filler-PredAudio,Unrelated Foil A,FoilAImage,Unrelated Foil B,FoilBImage,Unrelated Foil C,FoilCImage,Speaker
+suboptimal,53,Filler,buy,plant,plant1.jpg,buy_plant,buy_plant_GAE.mp3,,,,,box,box3.jpg,ball,ball1.jpg,cat,cat4.jpg,GAE
+optimal,13,Predictive,drive,car,car4.jpg,drive_car,drive_car_AAE.mp3,buy_car,buy_car.mp3,choose_grapes,choose_grapes.mp3,bag,bag2.jpg,grapes,grapes4.jpg,dress,dress2.jpg,AAE
+suboptimal,2,Predictive,climb,tree,tree3.jpg,climb_tree,climb_tree_GAE.mp3,touch_tree,touch_tree.mp3,buy_shirt,buy_shirt.mp3,jewel,jewel3.jpg,doll,doll3.jpg,juice,juice2.jpg,GAE
+intermediate,17,Predictive,pet,cat,cat2.jpg,pet_cat,pet_cat_GAE.mp3,choose_cat,choose_cat.mp3,buy_plant,buy_plant.mp3,box,box2.jpg,plant,plant4.jpg,ball,ball2.jpg,GAE
+suboptimal,12,Predictive,bake,cookies,cookies2.jpg,bake_cookies,bake_cookies_GAE.mp3,choose_cookies,choose_cookies.mp3,find_footprint,find_footprint.mp3,doll,doll4.jpg,footprint,footprint2.jpg,trophy,trophy2.jpg,GAE
+intermediate,6,Predictive,play,piano,piano3.jpg,play_piano,play_piano_GAE.mp3,buy_piano,buy_piano.mp3,buy_crayon,buy_crayon.mp3,couch,couch1.jpg,tractor,tractor2.jpg,crayon,crayon3.jpg,GAE
+suboptimal,48,Filler,find,footprint,footprint3.jpg,find_footprint,find_footprint_GAE.mp3,,,,,doll,doll1.jpg,cookies,cookies3.jpg,trophy,trophy3.jpg,GAE
+intermediate,41,Filler,choose,shoes,shoes1.jpg,choose_shoes,choose_shoes_GAE.mp3,,,,,peanut,peanut1.jpg,kite,kite4.jpg,bush,bush2.jpg,GAE
+optimal,22,NeutralFiller,find,milk,milk2.jpg,find_milk,find_milk_AAE.mp3,,,,,tractor,tractor4.jpg,ball,ball3.jpg,dress,dress3.jpg,AAE
+intermediate,36,Filler,choose,chair,chair1.jpg,choose_chair,choose_chair_GAE.mp3,,,,,brush,brush2.jpg,horn,horn4.jpg,bread,bread2.jpg,GAE
+suboptimal,32,NeutralFiller,find ,dog,dog4.jpg,find _dog,find _dog_GAE.mp3,,,,,can,can2.jpg,milk,milk4.jpg,truck,truck3.jpg,GAE
+suboptimal,42,Filler,choose,scissors,scissors1.jpg,choose_scissors,choose_scissors_GAE.mp3,,,,,bush,bush4.jpg,sandwich,sandwich3.jpg,jewel,jewel2.jpg,GAE
+intermediate,49,Filler,choose,grapes,grapes1.jpg,choose_grapes,choose_grapes_GAE.mp3,,,,,bag,bag1.jpg,car,car3.jpg,dress,dress4.jpg,GAE
+intermediate,30,NeutralFiller,choose,cookies,cookies1.jpg,choose_cookies,choose_cookies_GAE.mp3,,,,,doll,doll2.jpg,footprint,footprint4.jpg,trophy,trophy4.jpg,GAE
+optimal,40,Filler,buy,crayon,crayon1.jpg,buy_crayon,buy_crayon_AAE.mp3,,,,,couch,couch2.jpg,piano,piano1.jpg,tractor,tractor1.jpg,AAE
+suboptimal,5,Predictive,win,trophy,trophy1.jpg,win_trophy,win_trophy_GAE.mp3,buy_trophy,buy_trophy.mp3,choose_santa,choose_santa.mp3,mail,mail4.jpg,santa,santa3.jpg,whisle,whisle1.jpg,GAE
+intermediate,51,Filler,get,can,can1.jpg,get_can,get_can_GAE.mp3,,,,,costume,costume4.jpg,kite,kite1.jpg,bike,bike3.jpg,GAE
+intermediate,13,Predictive,drive,car,car1.jpg,drive_car,drive_car_GAE.mp3,buy_car,buy_car.mp3,choose_grapes,choose_grapes.mp3,bag,bag4.jpg,grapes,grapes2.jpg,dress,dress1.jpg,GAE
+optimal,6,Predictive,play,piano,piano4.jpg,play_piano,play_piano_AAE.mp3,buy_piano,buy_piano.mp3,buy_crayon,buy_crayon.mp3,couch,couch3.jpg,tractor,tractor3.jpg,crayon,crayon4.jpg,AAE
+suboptimal,16,Predictive,kick,ball,ball4.jpg,kick_ball,kick_ball_GAE.mp3,buy_ball,buy_ball.mp3,find_mail,find_mail.mp3,cart,cart4.jpg,cat,cat3.jpg,mail,mail1.jpg,GAE
+suboptimal,26,NeutralFiller,choose,book,book2.jpg,choose_book,choose_book_GAE.mp3,,,,,santa,santa1.jpg,ring,ring2.jpg,horse,horse1.jpg,GAE
+optimal,0,Predictive,blow,horn,horn3.jpg,blow_horn,blow_horn_AAE.mp3,choose_horn ,choose_horn .mp3,choose_chair,choose_chair.mp3,brush,brush3.jpg,chair,chair3.jpg,bread,bread3.jpg,AAE
+optimal,37,Filler,buy,shirt,shirt4.jpg,buy_shirt,buy_shirt_AAE.mp3,,,,,horse ,horse 2.jpg,bread,bread1.jpg,couch,couch4.jpg,AAE
+suboptimal,9,Predictive,eat,sandwich,sandwich1.jpg,eat_sandwich,eat_sandwich_GAE.mp3,buy_sandwich,buy_sandwich.mp3,choose_scissors,choose_scissors.mp3,bush,bush1.jpg,jewel,jewel1.jpg,scissors,scissors2.jpg,GAE
+optimal,41,Filler,choose,shoes,shoes4.jpg,choose_shoes,choose_shoes_AAE.mp3,,,,,peanut,peanut3.jpg,kite,kite2.jpg,bush,bush3.jpg,AAE
+intermediate,24,NeutralFiller,buy ,piano,piano2.jpg,buy _piano,buy _piano_GAE.mp3,,,,,couch,couch3.jpg,tractor,tractor2.jpg,crayon,crayon2.jpg,GAE
+optimal,48,Filler,find,footprint,footprint1.jpg,find_footprint,find_footprint_AAE.mp3,,,,,doll,doll1.jpg,cookies,cookies4.jpg,trophy,trophy3.jpg,AAE
+optimal,29,NeutralFiller,find ,picture,picture4.jpg,find _picture,find _picture_AAE.mp3,,,,,footprint,footprint3.jpg,cookies,cookies1.jpg,mittens,mittens1.jpg,AAE
+suboptimal,45,Filler,choose,santa,santa2.jpg,choose_santa,choose_santa_GAE.mp3,,,,,mail,mail2.jpg,whistle,whistle1.jpg,trophy,trophy4.jpg,GAE
+intermediate,7,Predictive,fly,kite,kite3.jpg,fly_kite,fly_kite_GAE.mp3,buy_kite,buy_kite.mp3,choose_shoes,choose_shoes.mp3,peanut,peanut2.jpg,bush,bush2.jpg,shoes,shoes2.jpg,GAE
+optimal,11,Predictive,draw,picture,picture3.jpg,draw_picture,draw_picture_AAE.mp3,find_picture,find_picture.mp3,find_mittens,find_mittens.mp3,footprint,footprint1.jpg,cookies,cookies4.jpg,mittens,mittens2.jpg,AAE
+intermediate,2,Predictive,climb,tree,tree4.jpg,climb_tree,climb_tree_GAE.mp3,touch_tree,touch_tree.mp3,buy_shirt,buy_shirt.mp3,jewel,jewel4.jpg,doll,doll3.jpg,juice,juice3.jpg,GAE
+suboptimal,23,NeutralFiller,buy,trophy,trophy2.jpg,buy_trophy,buy_trophy_GAE.mp3,,,,,mail,mail3.jpg,santa,santa4.jpg,whistle,whistle2.jpg,GAE
+optimal,4,Predictive,drink ,milk,milk1.jpg,drink _milk,drink _milk_AAE.mp3,find_milk,find_milk.mp3,find_dress,find_dress.mp3,tractor,tractor1.jpg,ball,ball1.jpg,dress,dress3.jpg,AAE
+intermediate,12,Predictive,bake,cookies,cookies3.jpg,bake_cookies,bake_cookies_GAE.mp3,choose_cookies,choose_cookies.mp3,find_footprint,find_footprint.mp3,doll,doll2.jpg,footprint,footprint4.jpg,trophy,trophy1.jpg,GAE
+optimal,39,Filler,find,dress,dress2.jpg,find_dress,find_dress_AAE.mp3,,,,,tractor,tractor4.jpg,milk,milk3.jpg,ball,ball4.jpg,AAE
+intermediate,53,Filler,buy,plant,plant3.jpg,buy_plant,buy_plant_GAE.mp3,,,,,box,box1.jpg,ball,ball3.jpg,cat,cat1.jpg,GAE
+intermediate,11,Predictive,draw,picture,picture1.jpg,draw_picture,draw_picture_GAE.mp3,find_picture,find_picture.mp3,find_mittens,find_mittens.mp3,footprint,footprint2.jpg,cookies,cookies2.jpg,mittens,mittens3.jpg,GAE
+suboptimal,47,Filler,buy,whistle,whistle3.jpg,buy_whistle,buy_whistle_GAE.mp3,,,,,pickle,pickle1.jpg,footprint,footprint1.jpg,costume,costume3.jpg,GAE
+suboptimal,17,Predictive,pet,cat,cat3.jpg,pet_cat,pet_cat_GAE.mp3,choose_cat,choose_cat.mp3,buy_plant,buy_plant.mp3,box,box4.jpg,plant,plant2.jpg,ball,ball2.jpg,GAE
+intermediate,18,NeutralFiller,choose,horn,horn2.jpg,choose_horn,choose_horn_GAE.mp3,,,,,brush,brush4.jpg,chair,chair4.jpg,bread,bread4.jpg,GAE
+optimal,3,Predictive,pour ,juice,juice1.jpg,pour _juice,pour _juice_AAE.mp3,find_juice,find_juice.mp3,find_bell,find_bell.mp3,truck,truck1.jpg,book,book4.jpg,bell,bell2.jpg,AAE
+suboptimal,52,Filler,find,mail,mail4.jpg,find_mail,find_mail_GAE.mp3,,,,,cart,cart3.jpg,cat,cat4.jpg,ball,ball3.jpg,GAE
+suboptimal,8,Predictive,read,book,book3.jpg,read_book,read_book_GAE.mp3,choose_book,choose_book.mp3,choose_horse,choose_horse.mp3,santa,santa1.jpg,ring,ring3.jpg,horse,horse3.jpg,GAE
+intermediate,0,Predictive,blow,horn,horn1.jpg,blow_horn,blow_horn_GAE.mp3,choose_horn ,choose_horn .mp3,choose_chair,choose_chair.mp3,brush,brush1.jpg,chair,chair2.jpg,bread,bread2.jpg,GAE
+intermediate,43,Filler,find,mittens,mittens4.jpg,find_mittens,find_mittens_GAE.mp3,,,,,footprint,footprint2.jpg,picture,picture2.jpg,cookies,cookies3.jpg,GAE
+optimal,24,NeutralFiller,buy ,piano,piano4.jpg,buy _piano,buy _piano_AAE.mp3,,,,,couch,couch4.jpg,tractor,tractor3.jpg,crayon,crayon1.jpg,AAE
+optimal,49,Filler,choose,grapes,grapes3.jpg,choose_grapes,choose_grapes_AAE.mp3,,,,,bag,bag3.jpg,car,car2.jpg,dress,dress4.jpg,AAE
+suboptimal,14,Predictive,walk,dog,dog2.jpg,walk_dog,walk_dog_GAE.mp3,find_dog,find_dog.mp3,buy_truck,buy_truck.mp3,can,can4.jpg,milk,milk1.jpg,truck,truck4.jpg,GAE
+optimal,15,Predictive,ride,bike,bike2.jpg,ride_bike,ride_bike_AAE.mp3,find_bike,find_bike.mp3,get_can,get_can.mp3,costume,costume1.jpg,can,can3.jpg,kite,kite4.jpg,AAE
+intermediate,14,Predictive,walk,dog,dog3.jpg,walk_dog,walk_dog_GAE.mp3,find_dog,find_dog.mp3,buy_truck,buy_truck.mp3,can,can4.jpg,milk,milk3.jpg,truck,truck2.jpg,GAE
+optimal,1,Predictive,toast,bread,bread4.jpg,toast_bread,toast_bread_AAE.mp3,buy_bread,buy_bread.mp3,buy_shirt,buy_shirt.mp3,horse ,horse 1.jpg,shirt,shirt2.jpg,couch,couch2.jpg,AAE
+suboptimal,10,Predictive,throw,football,football4.jpg,throw_football,throw_football_GAE.mp3,hold_football,hold_football.mp3,buy_whistle,buy_whistle.mp3,pickle,pickle4.jpg,whistle,whistle4.jpg,costume,costume2.jpg,GAE
+optimal,7,Predictive,fly,kite,kite1.jpg,fly_kite,fly_kite_AAE.mp3,buy_kite,buy_kite.mp3,choose_shoes,choose_shoes.mp3,peanut,peanut4.jpg,bush,bush3.jpg,shoes,shoes3.jpg,AAE
