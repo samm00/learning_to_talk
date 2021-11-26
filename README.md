@@ -10,4 +10,6 @@ In this folder, there are randomization scripts to ensure fair and useful random
 
 The JavaScript files are PCIbex code for the respective experiments.
 
+The CSS is the styling I did for the experiment.
+
 #### More to come!
